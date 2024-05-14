@@ -10,17 +10,63 @@ The dataset comprises five CSV files:
 * dim_rooms: Describes room types and their classes (Standard/Elite/Premium/Presidential).
 * fact_aggregated_bookings: Aggregated data on check-in dates, room categories, successful bookings, and capacity.
 * fact_bookings: Detailed information on bookings including IDs, property IDs, booking dates, check-in/out dates, guest count, room categories, booking platforms, ratings, booking statuses, and revenues.
-## Task Overview:
-Your tasks are to:
 
-* Create metrics as per the provided metric list.
-* Develop a dashboard based on stakeholders' mock-up.
-* Generate relevant insights beyond the provided metric list and mock-up dashboard.
-## File Structure:
+## Other Files Included:
 * Metric List.xlsx: Contains the list of metrics to be created.
 * Mockup_Dashboard.pdf: Displays stakeholders' mock-up for dashboard design.
-* dim_date.csv: Metadata for dates including week numbers and day types.
-* dim_hotels.csv: Details about hotels including categories and cities.
-* dim_rooms.csv: Descriptions of room types and classes.
-* fact_aggregated_bookings.csv: Aggregated booking data.
-* fact_bookings.csv: Detailed booking information.
+* final_project_dashboard.pdf: snapshot of the Power BI dashboard.
+* hotel_analysis_project.zip: the complete Power BI project, including the data model, queries, and visualizations used to create the dashboard.
+### Instructions for Accessing the Power BI Project:
+- Download the hotel_analysis_project.zip file.
+- Extract the contents of the ZIP file to your local machine.
+- Open the extracted folder and locate the hotel_analysis_project.pbix file.
+- Open the Power BI Desktop application.
+- Click on "Open" and navigate to the location where you extracted the files.
+- Select the hotel_analysis_project.pbix file to open the Power BI project.
+- Explore the data model, queries, and visualizations to gain insights into hotel revenue analysis.
+
+## Findings and Insights:
+
+### Contribution of Luxury Segment:
+The luxury segment significantly contributes to the total revenue, indicating the importance of catering to high-end clientele for revenue generation.
+
+### Performance of AtliQ Exotica:
+AtliQ Exotica in Mumbai stands out for its high revenue generation, occupancy rate, and customer satisfaction. It demonstrates effective revenue management practices and service excellence.
+
+### Challenges at AtliQ Grands in Delhi:
+AtliQ Grands in Delhi faces challenges in revenue generation despite a decent occupancy rate. There is a need to improve room rates, increase bookings, and reduce cancellations to enhance revenue performance.
+
+### Issues at AtliQ Seasons in Mumbai:
+AtliQ Seasons in Mumbai struggles with low ratings and occupancy rates, indicating potential service quality issues or ineffective marketing strategies.
+
+### Weekend Performance:
+The realization percentage and occupancy rate are high during weekends, suggesting the potential for implementing targeted marketing promotions and packages to capitalize on weekend demand.
+
+### Revenue Distribution among Properties:
+AtliQ City and AtliQ Exotica properties across various cities contribute significantly to revenue generation, highlighting the importance of strategic location and brand reputation.
+
+### Uniform Monthly Revenue:
+Revenue generated each month shows a relatively uniform distribution, indicating consistent business performance throughout the year.
+
+## Recommendations:
+
+### Enhance Revenue Strategies:
+Implement targeted revenue enhancement strategies at AtliQ Grands in Delhi to increase room rates, boost bookings, and reduce cancellations, thereby improving revenue performance.
+
+### Improve Service Quality:
+Address service quality issues at AtliQ Seasons in Mumbai to enhance ratings and occupancy rates. Focus on staff training, facility maintenance, and customer satisfaction initiatives.
+
+### Weekend Promotions:
+Develop weekend-specific promotions and packages to leverage the high realization percentage and occupancy rate during weekends, attracting more guests and maximizing revenue potential.
+
+### Expand Luxury Segment:
+Consider expanding the luxury segment by opening more AtliQ Exotica properties in key cities, capitalizing on their success and reputation to attract affluent travelers and increase revenue.
+
+### Optimize Marketing Efforts:
+Implement targeted marketing campaigns to promote all properties, emphasizing unique selling points, special offers, and customer benefits to attract a diverse clientele and maximize revenue generation.
+
+### Monitor and Adjust Revenue Strategies:
+Continuously monitor revenue performance metrics and adjust strategies as needed to adapt to changing market conditions, customer preferences, and competitive dynamics. Regularly review occupancy rates, room rates, and customer feedback to fine-tune revenue management practices.
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-thanseeha)
