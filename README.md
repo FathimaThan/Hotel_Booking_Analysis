@@ -17,7 +17,8 @@ The dataset comprises five CSV files:
 * Metric List.xlsx: Contains the list of metrics to be created.
 * Mockup_Dashboard.pdf: Displays stakeholders' mock-up for dashboard design.
 * final_project_dashboard.pdf: snapshot of the Power BI dashboard.
-* hotel_analysis_bi.zip: the complete Power BI project, including the data model, queries, and visualizations used to create the dashboard.
+* <b><i>hotel_analysis_bi.zip:</b></i> the complete Power BI project, including the data model, queries, and visualizations used to create the dashboard.
+
 ### Instructions for Accessing the Power BI Project:
 - Download the hotel_analysis_project.zip file.
 - Extract the contents of the ZIP file to your local machine.
