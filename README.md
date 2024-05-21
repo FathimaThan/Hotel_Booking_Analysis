@@ -1,4 +1,6 @@
 # AtliQ Grands Revenue Analysis Power BI Project
+<img src="hotel_image.jpg" alt="image" width="500" height="360">
+
 ## Introduction:
 AtliQ Grands, a renowned player in the hospitality industry, is facing challenges in maintaining market share and revenue due to competition and ineffective decision-making. To address this, they aim to incorporate Business and Data Intelligence but lack an in-house data analytics team. As a data analyst, your task is to analyze historical data and provide actionable insights to help AtliQ Grands regain market share and revenue.
 
