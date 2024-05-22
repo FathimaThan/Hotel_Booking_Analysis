@@ -1,6 +1,13 @@
 # AtliQ Grands Revenue Analysis Power BI Project
 <img src="hotel_image.jpg" alt="image" width="500" height="360">
 
+## Overview:
+This project draws inspiration from a tutorial video by [codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) titled 'End-to-End Data Analytics Project'. In the tutorial, Dhaval Patel provides a comprehensive guide on conducting data analysis using Power BI.
+
+## Motivation:
+As an enthusiast in Data Science, I found the opportunity to delve into data analysis using Power BI both exciting and enriching. The tutorial by Dhaval Patel presented an ideal chance to expand my skills and understanding in this domain.
+Upon watching the tutorial, I gained insights into data visualization techniques, data cleaning methodologies, and dashboard creation using Power BI. Applying these learnings, I embarked on a project to analyze sales data from a retail company. By importing, cleansing, and visualizing the data using Power BI, I was able to uncover patterns, trends, and key insights that informed strategic business decisions for the company.
+
 ## Introduction:
 AtliQ Grands, a renowned player in the hospitality industry, is facing challenges in maintaining market share and revenue due to competition and ineffective decision-making. To address this, they aim to incorporate Business and Data Intelligence but lack an in-house data analytics team. As a data analyst, your task is to analyze historical data and provide actionable insights to help AtliQ Grands regain market share and revenue.
 
